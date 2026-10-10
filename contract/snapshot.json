@@ -1,0 +1,10 @@
+{
+  "contract_version": "0.1.0",
+  "source_repository": "https://github.com/georgi2005atanasov/pragma_change",
+  "source_path": "crates/behavior-contract",
+  "files": {
+    "Cargo.toml": "0c8a66d8e2ca2b664624ed48a81dc8b3b267edf0215454d33dc593554682ee99",
+    "src/lib.rs": "c328d8d0000d9899d3fe6ceeea7e4e4e4a02b283fd5aa767c94dfb55242cf339",
+    "src/recording.rs": "f93fc175f9c5d60631634ba6abdee57252c75173813e56f51dd7f8e3a7d7aa24"
+  }
+}
